@@ -11,6 +11,10 @@ class Blogs(models.Model):
     
     def __init__(self, *args: Any, **kwargs: Any) -> None:
         return self.title
-        
+
+
+
+
+
 
 
